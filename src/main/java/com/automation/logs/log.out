@@ -1,0 +1,209 @@
+2022-05-16 22:05:238 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:446 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:127 INFO  SignInPage :75 - Entering email address: 948[[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='email_create']]
+2022-05-16 22:05:218 INFO  SignInPage :80 - Clicking on create Account button: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-16 22:05:947 INFO  CreateAccountPage :80 - Clicking on female radio button: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='id_gender2']]
+2022-05-16 22:05:18 INFO  CreateAccountPage :82 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='customer_firstname']]
+2022-05-16 22:05:109 INFO  CreateAccountPage :84 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='customer_lastname']]
+2022-05-16 22:05:184 INFO  CreateAccountPage :86 - Entering Password: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:287 INFO  CreateAccountPage :91 - Entering firstname in address details field: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> id: firstname]
+2022-05-16 22:05:395 INFO  CreateAccountPage :93 - Entering lastname in address details field: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> id: lastname]
+2022-05-16 22:05:485 INFO  CreateAccountPage :95 - Entering Address: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='address1']]
+2022-05-16 22:05:629 INFO  CreateAccountPage :97 - Entering city: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='city']]
+2022-05-16 22:05:713 INFO  CreateAccountPage :99 - Entering PostCode: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //input[@id='postcode']]
+2022-05-16 22:05:793 INFO  CreateAccountPage :101 - Selecting State: [[ChromeDriver: chrome on WINDOWS (e8d3d5a734965940f4e37d9c1ffd660d)] -> xpath: //select[@id='id_state']]
+2022-05-16 22:05:97 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:739 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:936 INFO  SignInPage :75 - Entering email address: 717[[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='email_create']]
+2022-05-16 22:05:24 INFO  SignInPage :80 - Clicking on create Account button: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-16 22:05:334 INFO  CreateAccountPage :80 - Clicking on female radio button: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='id_gender2']]
+2022-05-16 22:05:398 INFO  CreateAccountPage :82 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='customer_firstname']]
+2022-05-16 22:05:495 INFO  CreateAccountPage :84 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='customer_lastname']]
+2022-05-16 22:05:607 INFO  CreateAccountPage :86 - Entering Password: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:707 INFO  CreateAccountPage :91 - Entering firstname in address details field: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> id: firstname]
+2022-05-16 22:05:823 INFO  CreateAccountPage :93 - Entering lastname in address details field: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> id: lastname]
+2022-05-16 22:05:975 INFO  CreateAccountPage :95 - Entering Address: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='address1']]
+2022-05-16 22:05:57 INFO  CreateAccountPage :97 - Entering city: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='city']]
+2022-05-16 22:05:127 INFO  CreateAccountPage :99 - Entering PostCode: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //input[@id='postcode']]
+2022-05-16 22:05:211 INFO  CreateAccountPage :101 - Selecting State: [[ChromeDriver: chrome on WINDOWS (4c57ec7119659978a5c9f6aac36f6b91)] -> xpath: //select[@id='id_state']]
+2022-05-16 22:05:606 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:184 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:75 INFO  SignInPage :75 - Entering email address: 700[[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='email_create']]
+2022-05-16 22:05:164 INFO  SignInPage :80 - Clicking on create Account button: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-16 22:05:518 INFO  CreateAccountPage :80 - Clicking on female radio button: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='id_gender2']]
+2022-05-16 22:05:575 INFO  CreateAccountPage :82 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='customer_firstname']]
+2022-05-16 22:05:658 INFO  CreateAccountPage :84 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='customer_lastname']]
+2022-05-16 22:05:742 INFO  CreateAccountPage :86 - Entering Password: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:834 INFO  CreateAccountPage :91 - Entering firstname in address details field: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> id: firstname]
+2022-05-16 22:05:939 INFO  CreateAccountPage :93 - Entering lastname in address details field: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> id: lastname]
+2022-05-16 22:05:26 INFO  CreateAccountPage :95 - Entering Address: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='address1']]
+2022-05-16 22:05:188 INFO  CreateAccountPage :97 - Entering city: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //input[@id='city']]
+2022-05-16 22:05:268 INFO  CreateAccountPage :99 - Selecting State: [[ChromeDriver: chrome on WINDOWS (2c9e833de301df3e2bd9f0cb9dac8ecf)] -> xpath: //select[@id='id_state']]
+2022-05-16 22:05:824 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:589 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:459 INFO  SignInPage :75 - Entering email address: 76[[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='email_create']]
+2022-05-16 22:05:561 INFO  SignInPage :80 - Clicking on create Account button: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-16 22:05:428 INFO  CreateAccountPage :80 - Clicking on female radio button: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='id_gender2']]
+2022-05-16 22:05:485 INFO  CreateAccountPage :82 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='customer_firstname']]
+2022-05-16 22:05:567 INFO  CreateAccountPage :84 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='customer_lastname']]
+2022-05-16 22:05:642 INFO  CreateAccountPage :86 - Entering Password: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:725 INFO  CreateAccountPage :91 - Entering firstname in address details field: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> id: firstname]
+2022-05-16 22:05:826 INFO  CreateAccountPage :93 - Entering lastname in address details field: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> id: lastname]
+2022-05-16 22:05:914 INFO  CreateAccountPage :95 - Entering Address: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='address1']]
+2022-05-16 22:05:64 INFO  CreateAccountPage :97 - Entering city: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='city']]
+2022-05-16 22:05:147 INFO  CreateAccountPage :99 - Selecting State: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //select[@id='id_state']]
+2022-05-16 22:05:226 INFO  CreateAccountPage :101 - Entering PostCode: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='postcode']]
+2022-05-16 22:05:280 INFO  CreateAccountPage :103 - Entering Mobile Number: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='phone_mobile']]
+2022-05-16 22:05:339 INFO  CreateAccountPage :108 - Selecting Country: United States
+2022-05-16 22:05:406 INFO  CreateAccountPage :113 - Entering Alias: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //input[@id='alias']]
+2022-05-16 22:05:473 INFO  CreateAccountPage :117 - Clicking on register button: [[ChromeDriver: chrome on WINDOWS (06a20207ad1b4711ea31d91ac0e6c043)] -> xpath: //span[normalize-space()='Register']]
+2022-05-16 22:05:461 INFO  CreateAccountPage :121 - Getting successful registration text: MY ACCOUNT
+2022-05-16 22:05:838 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:432 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (367571c9a666c8e810ac0af261079af9)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:184 INFO  WomenCategoryPage :26 - Verifying Women text: [[ChromeDriver: chrome on WINDOWS (367571c9a666c8e810ac0af261079af9)] -> xpath: //h2[normalize-space()='Women']]
+2022-05-16 22:05:912 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:573 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:184 INFO  ProductPage :62 - Selecting Product: Blouse
+2022-05-16 22:05:208 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:233 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:283 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:361 INFO  ProductPage :71 - Clicking on White Colour: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //a[@id='color_8']]
+2022-05-16 22:05:431 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:495 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:531 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (cd4854e345fb027c25681f04999fdf56)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:617 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:338 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:964 INFO  ProductPage :62 - Selecting Product: Printed Dress
+2022-05-16 22:05:993 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:18 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:69 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:141 INFO  ProductPage :75 - Clicking on Orange Colour: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //a[@id='color_13']]
+2022-05-16 22:05:198 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:261 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:289 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (c79d8a7985ab0a95d937b6fcddb0dd3a)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:243 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:361 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:290 INFO  ProductPage :62 - Selecting Product: Printed Chiffon Dress
+2022-05-16 22:05:763 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:789 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:840 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:882 INFO  ProductPage :79 - Clicking on Green Colour: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //a[@id='color_15']]
+2022-05-16 22:05:944 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:997 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:19 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (a0e7634e59ab5da341ece321a2b66a78)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:124 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:426 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:28 INFO  ProductPage :62 - Selecting Product: Printed Summer Dress
+2022-05-16 22:05:270 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:295 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:340 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:418 INFO  ProductPage :83 - Clicking on Blue Colour: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //a[@id='color_14']]
+2022-05-16 22:05:479 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:535 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:558 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (08e55f129c32b3699efc2234e8496ae8)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:29 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:972 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:255 INFO  SignInPage :75 - Entering email address: 358[[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='email_create']]
+2022-05-16 22:05:345 INFO  SignInPage :80 - Clicking on create Account button: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-16 22:05:650 INFO  CreateAccountPage :80 - Clicking on female radio button: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='id_gender2']]
+2022-05-16 22:05:705 INFO  CreateAccountPage :82 - Entering First Name: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='customer_firstname']]
+2022-05-16 22:05:790 INFO  CreateAccountPage :84 - Entering Last Name: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='customer_lastname']]
+2022-05-16 22:05:866 INFO  CreateAccountPage :86 - Entering Password: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:984 INFO  CreateAccountPage :91 - Entering firstname in address details field: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> id: firstname]
+2022-05-16 22:05:93 INFO  CreateAccountPage :93 - Entering lastname in address details field: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> id: lastname]
+2022-05-16 22:05:185 INFO  CreateAccountPage :95 - Entering Address: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='address1']]
+2022-05-16 22:05:367 INFO  CreateAccountPage :97 - Entering city: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='city']]
+2022-05-16 22:05:435 INFO  CreateAccountPage :99 - Selecting State: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //select[@id='id_state']]
+2022-05-16 22:05:519 INFO  CreateAccountPage :101 - Entering PostCode: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='postcode']]
+2022-05-16 22:05:581 INFO  CreateAccountPage :103 - Entering Mobile Number: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='phone_mobile']]
+2022-05-16 22:05:651 INFO  CreateAccountPage :108 - Selecting Country: United States
+2022-05-16 22:05:722 INFO  CreateAccountPage :113 - Entering Alias: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //input[@id='alias']]
+2022-05-16 22:05:802 INFO  CreateAccountPage :117 - Clicking on register button: [[ChromeDriver: chrome on WINDOWS (8d53f109a62c2a133304b237efe7b1af)] -> xpath: //span[normalize-space()='Register']]
+2022-05-16 22:05:297 INFO  CreateAccountPage :121 - Getting successful registration text: MY ACCOUNT
+2022-05-16 22:05:03 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:879 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (6d7224e43b03e307002add66188303f2)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:88 INFO  SignInPage :85 - Getting 'Authentication' text: AUTHENTICATION
+2022-05-16 22:05:797 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:706 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (d3dac347aacec201473ddbd8407b7ac5)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:438 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (d3dac347aacec201473ddbd8407b7ac5)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:489 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (d3dac347aacec201473ddbd8407b7ac5)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:569 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (d3dac347aacec201473ddbd8407b7ac5)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:47 INFO  SignInPage :105 - Getting error message for invalid credentials: There is 1 error
+An email address required.
+2022-05-16 22:05:739 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:501 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (dec5f8c90b17635254aede77e4767bfb)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:728 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (dec5f8c90b17635254aede77e4767bfb)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:791 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (dec5f8c90b17635254aede77e4767bfb)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:855 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (dec5f8c90b17635254aede77e4767bfb)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:358 INFO  SignInPage :105 - Getting error message for invalid credentials: There is 1 error
+Password is required.
+2022-05-16 22:05:35 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:449 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (3d85c65a795e788bea928cd51e56dc73)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:718 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (3d85c65a795e788bea928cd51e56dc73)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:781 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (3d85c65a795e788bea928cd51e56dc73)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:850 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (3d85c65a795e788bea928cd51e56dc73)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:237 INFO  SignInPage :105 - Getting error message for invalid credentials: There is 1 error
+Invalid email address.
+2022-05-16 22:05:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:66 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (d29d930dff5eee673e091be6db52c502)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:962 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (d29d930dff5eee673e091be6db52c502)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:26 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (d29d930dff5eee673e091be6db52c502)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:91 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (d29d930dff5eee673e091be6db52c502)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:635 INFO  SignInPage :105 - Getting error message for invalid credentials: There is 1 error
+Authentication failed.
+2022-05-16 22:05:310 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:743 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (0eb3e07dba7e8c7398393d34982a6b38)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:864 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (0eb3e07dba7e8c7398393d34982a6b38)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:938 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (0eb3e07dba7e8c7398393d34982a6b38)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:05 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (0eb3e07dba7e8c7398393d34982a6b38)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:349 INFO  SignInPage :95 - Checking signout link is displayed: true
+2022-05-16 22:05:40 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:531 INFO  HomePage :43 - Clicking on Sign in Link [[ChromeDriver: chrome on WINDOWS (e088e4daaa5e8ca2debf689fb88c7d2a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-16 22:05:369 INFO  SignInPage :58 - Entering Email Address: [[ChromeDriver: chrome on WINDOWS (e088e4daaa5e8ca2debf689fb88c7d2a)] -> xpath: //input[@id='email']]
+2022-05-16 22:05:442 INFO  SignInPage :63 - Entering Passoword: [[ChromeDriver: chrome on WINDOWS (e088e4daaa5e8ca2debf689fb88c7d2a)] -> xpath: //input[@id='passwd']]
+2022-05-16 22:05:512 INFO  SignInPage :68 - Clicking on sign in button: [[ChromeDriver: chrome on WINDOWS (e088e4daaa5e8ca2debf689fb88c7d2a)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-16 22:05:525 INFO  SignInPage :100 - Clicking on sign out link: [[ChromeDriver: chrome on WINDOWS (e088e4daaa5e8ca2debf689fb88c7d2a)] -> xpath: //a[@title='Log me out']]
+2022-05-16 22:05:769 INFO  SignInPage :110 - Verifying that 'Sign in' link is displayed: Sign in
+2022-05-16 22:05:482 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:302 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (c15ccd8f93bbed190524f42b22345df7)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:944 INFO  WomenCategoryPage :26 - Verifying Women text: [[ChromeDriver: chrome on WINDOWS (c15ccd8f93bbed190524f42b22345df7)] -> xpath: //h2[normalize-space()='Women']]
+2022-05-16 22:05:661 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:642 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:61 INFO  ProductPage :62 - Selecting Product: Blouse
+2022-05-16 22:05:220 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:244 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:287 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:362 INFO  ProductPage :71 - Clicking on White Colour: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //a[@id='color_8']]
+2022-05-16 22:05:434 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:485 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:508 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (02e887555477d95f5fec6bd7007a9ef6)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:542 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:613 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:750 INFO  ProductPage :62 - Selecting Product: Printed Dress
+2022-05-16 22:05:664 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:691 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:741 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:816 INFO  ProductPage :75 - Clicking on Orange Colour: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //a[@id='color_13']]
+2022-05-16 22:05:870 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:922 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:948 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (a137d8485a230b0015899be7e00df776)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:964 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 22:05:292 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //a[@title='Women']]
+2022-05-16 22:05:435 INFO  ProductPage :62 - Selecting Product: Printed Chiffon Dress
+2022-05-16 22:05:598 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:625 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 22:05:673 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //select[@id='group_1']]
+2022-05-16 22:05:710 INFO  ProductPage :79 - Clicking on Green Colour: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //a[@id='color_15']]
+2022-05-16 22:05:773 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 22:05:824 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 22:05:847 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (0cb236867b7657623af32a42591dcb43)] -> xpath: //span[@title='Close window']]
+2022-05-16 22:05:828 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-16 23:05:672 INFO  HomePage :39 - Clicking on Women Tab: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //a[@title='Women']]
+2022-05-16 23:05:355 INFO  ProductPage :62 - Selecting Product: Printed Summer Dress
+2022-05-16 23:05:891 INFO  ProductPage :90 - Clearing the quantity: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 23:05:915 INFO  ProductPage :93 - Adding the quantity: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-16 23:05:961 INFO  ProductPage :98 - Selecting the size: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //select[@id='group_1']]
+2022-05-16 23:05:38 INFO  ProductPage :83 - Clicking on Blue Colour: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //a[@id='color_14']]
+2022-05-16 23:05:97 INFO  ProductPage :103 - Clicking on Add to Cart Button: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-16 23:05:147 INFO  ProductPage :108 - Verifying Add to cart message: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-16 23:05:173 INFO  ProductPage :113 - Closing pop up window: [[ChromeDriver: chrome on WINDOWS (f8f3fe160589630a6753513b2e9283ae)] -> xpath: //span[@title='Close window']]
